@@ -85,7 +85,5 @@ A web service that helps you find other web pages.
 
 When you type a website into a browser the browser makes a request to the DNS server where it finds the address of the server the website is hosted on. The browser sends an HTTP request to the server asking for a copy of the website to the client using TCP/IP. If the server approves the message it sends a 200 response and begins sending the files in packets. Your browser reassembled the packets and displays it.
 
-### What browser are you currently using?
 
-Chrome
 
